@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🏡️🪑️👴️📖️ The LANMan (or Old Man) is a component of the LANChair software that allows you to kick people off your LAN, or let them use it. This is the documentation source repository for the project. Now git off my LAN! 
